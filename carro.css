@@ -2,13 +2,19 @@
 	width:100%;
 }
 
+
+body{
+background-color: rgb(95, 95, 95);
+
+}
+
 .principal{
-	background: #3f99f2;
+	background: rgb(95, 95, 95);
 	padding: 30px;
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 50px;
 }
 
 .titulo-centralizado {
@@ -17,12 +23,12 @@
 
 p {
 	text-align: justify;
-	font-size: large;
+	font-size: 150%;
 }
 
 
 .objetivos {
-	background: rgb(0, 7, 37);
+	background: rgb(95, 95, 95);
 	padding: 20px;
 	font-size: larger;
 	color:white;
